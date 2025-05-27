@@ -8,5 +8,6 @@ Contents:
 - 📂 Chapter 4 - Results and Discussion:
 - Exploratory Data Analysis (EDA) and visualization of key features
 - Model training and evaluation metrics (MAE, RMSE, R², Accuracy, Precision, Recall, F1-score)
-- Comparative analysis of models and feature importance ranking
+- Comparative analysis of models and feature importance ranking.
+  
 This repository serves as a computational framework for educational data science research, providing insights into mathematical performance predictors using machine learning techniques.
