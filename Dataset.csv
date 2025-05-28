@@ -1,0 +1,365 @@
+Number,Mark,Grade,Gender,Age,PO,FFS,Fsupport,PocketMoney,Feeding,Distance,NegativeIH,QualityTeacher,TStR,NRoll, PVC,CondC,DYESM,SH,HODYDH,DYMS,ALM,ExtC,ExtraCA,Activity, NIOA
+1,6,6,0,1,Trader,M,Good,6-10 cedis,2,0,Maybe,Average,Excellent,61,Maybe,Yes,Yes,2 hours and above,Regularly,Sometimes,Yes,Yes,No,,
+2,8,6,0,1,2mer,Low,Fair,2-5 cedis,3,2,No,Average,Good,63,Yes,Yes,No,1 hour,Irregularly,Sometimes,Yes,No,Yes,Sports,No
+3,8,6,0,1,Cleaner,Low,Fair,6-10 cedis,2,1,No,Average,Excellent,63,Yes,Yes,Yes,1 hour,Irregularly,Sometimes,Yes,Yes,Yes,Sports,Yes
+4,9,6,1,2,Travel Agent,high,Good,11 cedis and above,2,0,No,Excellent,Excellent,62,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+5,9,6,0,1,Contractor,M,Good,2-5 cedis,2,3,Yes,Average,Good,62,Maybe,Maybe,Yes,1 hour,Not at all,Sometimes,Yes,No,No,,
+6,10,6,0,2,Trader,Low,Fair,2-5 cedis,1,0,Maybe,Poor,Average,59,Maybe,Maybe,Maybe,2 hours and above,Regularly,Not at all,No,No,No,,
+7,11,6,0,1,Trader,M,Good,2-5 cedis,2,0,Yes,Average,Good,59,Maybe,Yes,Yes,1 hour,Regularly,Sometimes,Yes,No,No,,
+8,11,6,0,1,Trader,M,Fair,6-10 cedis,3,2,No,Average,Good,59,Yes,Yes,Yes,2 hours and above,Regularly,Sometimes,No,No,No,,
+9,12.5,6,0,1,Teacher,M,Good,2-5 cedis,2,2,Yes,Poor,Poor,60,Yes,Yes,No,Less than an hour,Not at all,Sometimes,No,No,Yes,Sports,No
+10,13,6,1,1,Trader,Low,Fair,6-10 cedis,3,2,No,Average,Average,68,No,Maybe,Maybe,1 hour,Irregularly,Sometimes,No,No,Yes,Sports,Yes
+11,13,6,0,1,Trader,M,Good,6-10 cedis,3,1,No,Average,Excellent,60,No,Yes,Yes,1 hour,Regularly,Sometimes,No,Yes,No,,
+12,13,6,0,2,Caterer,M,Good,6-10 cedis,3,1,No,Average,Excellent,60,No,Yes,Yes,Less than an hour,Regularly,Sometimes,No,Yes,No,,
+13,14,6,0,1,Mason,M,Good,2-5 cedis,2,2,No,Average,Average,65,No,Yes,Yes,1 hour,Regularly,Sometimes,No,No,No,,
+14,14,6,0,1,Driver,Low,Poor,2-5 cedis,2,0,No,Average,Good,60,Yes,Yes,Yes,Less than an hour,Regularly,Sometimes,Yes,No,No,,
+15,14,6,0,2,Trader,M,Fair,2-5 cedis,2,0,Maybe,Average,Excellent,55,Maybe,Maybe,Yes,1 hour,Regularly,Sometimes,No,No,Yes,Sports,No
+16,14,6,0,1,Trader,M,Good,6-10 cedis,3,0,No,Average,Excellent,60,Yes,Maybe,Yes,1 hour,Not at all,Sometimes,Yes,No,No,,
+17,15,6,0,2,Driver,Low,Good,2-5 cedis,3,3,No,Excellent,Good,62,No,Yes,Maybe,Less than an hour,Regularly,Not at all,Yes,No,Yes,Sports,Yes
+18,15,6,1,1,Teacher,M,Good,6-10 cedis,2,2,Yes,Excellent,Good,55,Yes,Yes,Yes,1 hour,Regularly,Sometimes,Yes,No,Yes,Sports,No
+19,16,6,1,1,Trader,M,Good,2-5 cedis,2,2,No,Excellent,Good,52,Yes,Yes,Yes,1 hour,Regularly,Sometimes,Yes,Yes,Yes,Sports,Yes
+20,16,6,0,1,Teacher,M,Good,2-5 cedis,2,1,Yes,Excellent,Excellent,54,Yes,Yes,No,1 hour,Regularly,Sometimes,Yes,No,No,,
+21,17,6,0,1,Trader,Low,Poor,11 cedis and above,2,0,Yes,Excellent,Average,51,Maybe,Maybe,Maybe,2 hours and above,Irregularly,Often,Yes,Yes,No,,
+22,17,6,0,1,Carpenter,Low,Good,2-5 cedis,2,2,Maybe,Average,Average,61,No,Yes,Yes,Less than an hour,Regularly,Not at all,No,No,No,,
+23,17,6,0,2,Doctor,high,Fair,6-10 cedis,2,1,Yes,Excellent,Excellent,60,Yes,Yes,Yes,Less than an hour,Irregularly,Sometimes,Yes,No,No,,
+24,18,6,0,1,Trader,Low,Fair,2-5 cedis,2,1,No,Average,Excellent,60,Yes,Maybe,No,Less than an hour,Regularly,Sometimes,Yes,No,Yes,Sports,No
+25,18,6,0,1,Teacher,M,Good,6-10 cedis,3,3,Maybe,Excellent,Good,52,Yes,Yes,Yes,1 hour,Regularly,Sometimes,Yes,Yes,Yes,Sports,Yes
+26,19,6,0,1,Driver,M,Good,6-10 cedis,3,0,No,Average,Average,58,No,No,Yes,1 hour,Regularly,Not at all,Yes,No,Yes,Sports,Yes
+27,19,6,0,2,Trader,Low,Poor,2-5 cedis,2,0,Yes,Average,Average,54,Maybe,No,Maybe,2 hours and above,Not at all,Sometimes,No,No,No,,
+28,20,6,0,2,Trader,M,Fair,6-10 cedis,2,2,No,Poor,Poor,54,No,No,Maybe,Less than an hour,Regularly,Sometimes,No,No,No,,
+29,20,6,1,1,Trader,M,Good,6-10 cedis,1,2,No,Excellent,Excellent,58,Yes,Yes,Yes,1 hour,Regularly,Sometimes,No,No,Yes,Sports,Yes
+30,20,6,0,1,2mer,M,Fair,6-10 cedis,2,0,Yes,Excellent,Good,54,No,Yes,No,1 hour,Not at all,Often,No,No,No,,
+31,20,6,0,2,Dress maker,M,Good,11 cedis and above,3,2,No,Poor,Average,60,No,No,Yes,1 hour,Regularly,Not at all,Yes,No,No,,
+32,21,6,0,1,Baker,M,Good,6-10 cedis,3,1,No,Excellent,Excellent,54,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,Yes,Sports,No
+33,21,6,1,1,Herbalist,M,Fair,2-5 cedis,2,2,No,Excellent,Good,60,Yes,Yes,Yes,1 hour,Not at all,Sometimes,Yes,No,Yes,Sports,No
+34,21,6,0,2,Teacher,high,Good,6-10 cedis,3,0,No,Average,Excellent,56,No,Maybe,Yes,1 hour,Regularly,Not at all,No,No,No,,
+35,21,6,0,2,Dress maker,high,Good,11 cedis and above,3,2,Yes,Average,Good,56,No,Maybe,Yes,1 hour,Regularly,Not at all,No,No,No,,
+36,22,6,0,1,Carpenter,M,Good,2-5 cedis,2,2,Yes,Average,Good,58,No,Yes,Maybe,1 hour,Regularly,Sometimes,No,No,No,,
+37,22,6,1,1,Trader,M,Good,2-5 cedis,1,2,No,Average,Excellent,59,Yes,Yes,Yes,1 hour,Regularly,Sometimes,No,No,Yes,Sports,Yes
+38,22,6,1,1,Trader,M,Good,2-5 cedis,1,2,No,Excellent,Excellent,59,Yes,Yes,Yes,1 hour,Regularly,Sometimes,No,No,Yes,Sports,Yes
+39,22,6,1,1,Trader,M,Good,11 cedis and above,3,2,No,Average,Excellent,62,Yes,Yes,Yes,Less than an hour,Regularly,Not at all,Yes,No,No,,
+40,22,6,1,1,2mer,Low,Poor,2-5 cedis,2,0,Maybe,Excellent,Good,62,Yes,Maybe,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+41,22,6,0,1,Trader,M,Good,6-10 cedis,2,3,Yes,Excellent,Average,60,Yes,Yes,No,Less than an hour,Not at all,Sometimes,No,No,Yes,Sports,No
+42,22,6,0,1,Teacher,M,Good,6-10 cedis,3,2,Yes,Average,Good,54,No,No,Yes,1 hour,Regularly,Not at all,Yes,Yes,Yes,Sports,Yes
+43,24,6,0,1,Teacher,M,Good,6-10 cedis,3,2,Yes,Excellent,Excellent,60,No,No,No,Less than an hour,Not at all,Sometimes,No,Yes,Yes,Sports,Yes
+44,24,6,1,1,Doctor,M,Fair,6-10 cedis,1,3,Yes,Average,Average,65,Maybe,Maybe,Maybe,1 hour,Regularly,Often,No,No,No,,
+45,24,6,1,1,Trader,M,Good,6-10 cedis,2,2,No,Excellent,Good,25,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,No,No,,
+46,24,6,0,1,Teacher,M,Good,11 cedis and above,3,0,Yes,Average,Good,25,Yes,Yes,Yes,Less than an hour,Regularly,Sometimes,Yes,Yes,No,,
+47,24,6,1,1,Trader,M,Good,6-10 cedis,3,2,No,Excellent,Excellent,25,Yes,Yes,Yes,2 hours and above,Regularly,Sometimes,Yes,Yes,No,,
+48,25,6,0,2,Teacher,M,Good,6-10 cedis,3,2,No,Excellent,Excellent,25,Maybe,Yes,Yes,1 hour,Regularly,Not at all,Yes,No,No,,
+49,25,6,1,1,Trader,M,Good,6-10 cedis,2,2,No,Excellent,Excellent,25,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,No,No,,
+50,25,6,0,1,Banker,M,Fair,6-10 cedis,3,2,No,Average,Good,25,Yes,Maybe,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+51,25,6,0,2,Pastor,high,Fair,6-10 cedis,3,1,No,Poor,Excellent,25,Yes,Maybe,Maybe,Less than an hour,Regularly,Often,Yes,No,Yes,Sports,Yes
+52,25,6,0,1,Pharmacist,M,Good,11 cedis and above,3,0,No,Excellent,Good,25,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,No,Yes,Quiz competition,Yes
+53,25,6,1,2,Land Surveyor,M,Good,11 cedis and above,3,2,No,Excellent,Excellent,25,Yes,Yes,Yes,1 hour,Regularly,Sometimes,Yes,No,Yes,Sports,No
+54,25,6,0,2,Pharmacist,M,Good,11 cedis and above,3,0,No,Excellent,Excellent,25,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+55,26,6,1,1,Trader,M,Good,11 cedis and above,2,2,No,Poor,Poor,25,No,No,No,1 hour,Irregularly,Sometimes,Yes,Yes,Yes,computer Coding,No
+56,26,6,1,2,Teacher,M,Good,6-10 cedis,2,2,Maybe,Average,Average,25,Yes,Yes,Yes,1 hour,Irregularly,Sometimes,No,Yes,No,,
+57,26,6,0,2,Trader,Low,Fair,2-5 cedis,2,0,No,Average,Average,25,Yes,Yes,Yes,Less than an hour,Irregularly,Sometimes,Yes,No,No,,
+58,26,6,0,1,Lecturer,high,Good,11 cedis and above,3,2,No,Excellent,Good,25,Yes,Yes,Yes,1 hour,Regularly,Sometimes,Yes,No,No,,
+59,26,6,0,1,Trader,high,Good,11 cedis and above,3,2,No,Excellent,Good,25,Yes,Yes,Yes,1 hour,Regularly,Sometimes,Yes,Yes,No,,
+60,26,6,0,2,Teacher,high,Fair,6-10 cedis,2,2,Maybe,Excellent,Poor,25,Maybe,Maybe,Yes,2 hours and above,Regularly,Not at all,Yes,No,No,,
+61,26,6,1,2,Banker,high,Good,6-10 cedis,3,2,No,Excellent,Excellent,26,Yes,Yes,Yes,Less than an hour,Regularly,Not at all,Yes,Yes,No,,
+62,26,6,1,2,Cyber Security Analyst,M,Good,11 cedis and above,3,3,No,Average,Excellent,26,Maybe,Yes,Yes,Less than an hour,Regularly,Sometimes,Yes,No,No,,
+63,26,6,0,1,Technician,high,Good,11 cedis and above,3,2,No,Excellent,Excellent,25,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+64,26,6,1,1,Auditor,high,Good,6-10 cedis,3,2,No,Average,Excellent,26,Maybe,Maybe,No,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+65,27,6,0,1,Teacher,M,Good,2-5 cedis,3,0,No,Average,Good,26,Yes,Yes,Maybe,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+66,27,6,0,1,Pastor,M,Good,6-10 cedis,3,2,No,Average,Good,26,Yes,Yes,No,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+67,27,6,1,2,Chief Registrar,high,Good,2-5 cedis,3,0,No,Average,Good,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+68,28,6,0,1,Trader,M,Good,11 cedis and above,3,2,No,Average,Excellent,26,Yes,Maybe,Yes,Less than an hour,Regularly,Sometimes,Yes,Yes,No,,
+69,28,6,1,1,Teacher,M,Poor,11 cedis and above,3,3,Maybe,Excellent,Excellent,26,Yes,Yes,Yes,Less than an hour,Irregularly,Sometimes,Yes,Yes,No,,
+70,28,6,1,2,Technician,M,Fair,6-10 cedis,2,0,No,Average,Excellent,26,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,No,No,,
+71,28,6,0,2,Secretary,high,Good,6-10 cedis,3,0,No,Average,Excellent,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+72,28,6,0,1,Pastor,M,Good,11 cedis and above,2,0,No,Average,Excellent,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,Yes,Sports,No
+73,28,6,1,1,DVLA worker,high,Good,6-10 cedis,3,2,No,Excellent,Good,26,No,No,Yes,2 hours and above,Irregularly,Sometimes,No,Yes,Yes,Sports,Yes
+74,28,6,1,1,Civil Servant,high,Good,11 cedis and above,2,2,No,Excellent,Excellent,25,Yes,Yes,Yes,2 hours and above,Irregularly,Not at all,No,No,No,,
+75,29,6,1,1,Banker,high,Good,11 cedis and above,3,3,No,Average,Excellent,26,Yes,Yes,Maybe,1 hour,Regularly,Not at all,No,No,No,,
+76,30,6,1,2,Accountant,M,Good,11 cedis and above,3,2,No,Excellent,Excellent,26,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,No,No,,
+77,30,6,0,2,Engineer,M,Good,11 cedis and above,3,2,No,Excellent,Excellent,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,No,No,,
+78,30,6,0,1,Banker,high,Good,6-10 cedis,3,2,No,Excellent,Good,38,Yes,No,Yes,Less than an hour,Regularly,Often,Yes,Yes,No,,
+79,30,6,0,1,Administrator,M,Fair,6-10 cedis,2,3,No,Excellent,Excellent,26,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+80,31,6,0,1,Trader,M,Good,6-10 cedis,3,0,Maybe,Excellent,Excellent,20,Yes,Maybe,Yes,1 hour,Regularly,Not at all,Yes,No,No,,
+81,31,6,0,1,Trader,M,Good,11 cedis and above,3,2,No,Excellent,Excellent,39,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+82,32,6,0,1,Teacher,M,Good,11 cedis and above,2,0,No,Excellent,Excellent,39,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+83,32,6,0,2,Trader,M,Good,11 cedis and above,3,2,No,Excellent,Excellent,39,Maybe,Maybe,Yes,Less than an hour,Regularly,Sometimes,Yes,Yes,No,,
+84,32,6,0,1,Administrator,M,Good,6-10 cedis,3,3,No,Excellent,Good,38,Yes,Yes,Yes,2 hours and above,Regularly,Sometimes,Yes,Yes,No,,
+85,33,6,0,1,Trader,M,Good,11 cedis and above,2,0,No,Excellent,Excellent,38,Yes,Yes,Maybe,2 hours and above,Regularly,Not at all,Yes,No,No,,
+86,33,6,0,1,Trader,M,Good,11 cedis and above,3,2,No,Excellent,Excellent,38,Yes,Yes,Yes,1 hour,Regularly,Sometimes,Yes,No,No,,
+87,33.5,6,1,1,Teacher,M,Good,11 cedis and above,3,3,No,Excellent,Good,38,Yes,Maybe,Maybe,Less than an hour,Regularly,Not at all,Yes,No,No,,
+88,34,6,0,2,Teacher,M,Good,6-10 cedis,3,0,Yes,Excellent,Good,38,Yes,Yes,Yes,Less than an hour,Regularly,Not at all,Yes,Yes,No,,
+89,35,6,0,2,Accountant,M,Good,6-10 cedis,3,2,Maybe,Excellent,Good,38,Yes,No,Maybe,2 hours and above,Regularly,Not at all,Yes,No,No,,
+90,35,6,0,1,Caterer,M,Good,11 cedis and above,2,3,No,Excellent,Excellent,38,Yes,Yes,Maybe,2 hours and above,Regularly,Not at all,Yes,No,No,,
+91,35,6,0,1,Trader,M,Fair,11 cedis and above,2,2,No,Average,Good,38,Yes,Yes,Maybe,1 hour,Regularly,Sometimes,Yes,No,No,,
+92,35,6,0,1,Doctor,M,Good,11 cedis and above,3,3,No,Excellent,Excellent,38,Yes,Yes,Maybe,2 hours and above,Regularly,Sometimes,Yes,Yes,No,,
+93,35,6,0,1,Trader,M,Good,6-10 cedis,3,2,Maybe,Average,Average,38,Yes,Yes,Maybe,1 hour,Irregularly,Sometimes,Yes,No,No,,
+94,35,6,0,1,Teacher,high,Good,11 cedis and above,3,0,No,Excellent,Good,38,Yes,Yes,No,2 hours and above,Irregularly,Not at all,Yes,No,No,,
+95,35.6,6,0,1,Health worker,M,Good,11 cedis and above,3,2,No,Poor,Good,38,Yes,Maybe,No,Less than an hour,Irregularly,Not at all,Yes,No,No,,
+96,35.8,6,1,2,Accountant,high,Good,11 cedis and above,3,0,No,Excellent,Good,38,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,Yes,Yes,Sports,No
+97,36,6,0,2,Trader,M,Good,11 cedis and above,3,3,No,Excellent,Excellent,38,Yes,Yes,Yes,2 hours and above,Regularly,Sometimes,Yes,No,No,,
+98,36,6,0,1,Teacher,high,Good,2-5 cedis,3,3,No,Excellent,Excellent,38,Maybe,Yes,Maybe,1 hour,Regularly,Sometimes,Yes,Yes,No,,
+99,36,6,0,1,Teacher,M,Fair,6-10 cedis,2,2,Maybe,Excellent,Average,38,Yes,Yes,Yes,Less than an hour,Regularly,Sometimes,Yes,Yes,Yes,Music,Yes
+100,36.2,6,0,2,Teacher,M,Good,6-10 cedis,2,2,No,Average,Excellent,38,Yes,Yes,Yes,2 hours and above,Regularly,Sometimes,Yes,Yes,No,,
+101,36.3,6,0,2,Teacher,M,Good,11 cedis and above,3,0,No,Excellent,Excellent,38,Yes,Maybe,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+102,36.3,6,0,1,2mer,M,Good,11 cedis and above,2,0,No,Excellent,Good,38,Yes,Yes,Yes,1 hour,Regularly,Sometimes,Yes,Yes,No,,
+103,36.9,6,1,1,Teacher,high,Good,6-10 cedis,3,2,No,Excellent,Excellent,38,Yes,Yes,Yes,Less than an hour,Regularly,Not at all,Yes,Yes,No,,
+104,37,6,1,1,Trader,M,Good,6-10 cedis,3,3,No,Average,Good,38,Yes,Yes,Yes,1 hour,Regularly,Sometimes,Yes,Yes,Yes,Sports,Maybe
+105,37,6,0,2,Physician Assistant,high,Good,11 cedis and above,3,2,No,Excellent,Excellent,39,Yes,Yes,Maybe,2 hours and above,Regularly,Sometimes,Yes,Yes,No,,
+106,37,6,0,1,Administrator,high,Good,6-10 cedis,3,2,Maybe,Excellent,Good,38,Yes,Yes,Maybe,1 hour,Regularly,Sometimes,Yes,Yes,No,,
+107,37,6,0,2,Dietician,high,Good,11 cedis and above,3,2,Maybe,Average,Average,38,Yes,Yes,Yes,Less than an hour,Irregularly,Sometimes,Yes,Yes,No,,
+108,37,6,0,1,Banker,high,Fair,11 cedis and above,2,3,No,Average,Good,38,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+109,37.8,6,1,1,Nurse,M,Fair,2-5 cedis,3,0,No,Excellent,Average,26,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+110,37.9,6,1,1,Teacher,M,Good,2-5 cedis,1,3,Yes,Average,Poor,26,No,No,No,2 hours and above,Regularly,Not at all,Yes,Yes,Yes,Sports,No
+111,38,6,1,1,Doctor,high,Good,11 cedis and above,3,3,Maybe,Average,Good,26,Yes,Yes,Yes,Less than an hour,Regularly,Often,Yes,No,Yes,Sports,Maybe
+112,38,6,1,1,Trader,M,Good,11 cedis and above,3,0,No,Excellent,Excellent,25,Yes,Yes,Yes,Less than an hour,Regularly,Not at all,Yes,No,Yes,Quiz ,Yes
+113,38,6,0,2,Trader,M,Poor,6-10 cedis,2,2,No,Average,Excellent,38,Yes,Yes,Yes,1 hour,Regularly,Sometimes,Yes,Yes,No,,
+114,38,6,1,2,Caterer,M,Good,11 cedis and above,3,1,No,Excellent,Average,27,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,Yes,Yes,Sports,No
+115,38,6,1,1,Nurse,M,Fair,6-10 cedis,2,0,Yes,Average,Excellent,26,Yes,Maybe,Maybe,Less than an hour,Regularly,Sometimes,Yes,No,No,,
+116,38,6,1,2,Cosmetologyist,M,Good,11 cedis and above,3,2,No,Average,Excellent,26,No,Yes,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+117,38,6,1,1,Cleaner,Low,Fair,2-5 cedis,1,3,No,Average,Good,30,No,Maybe,Yes,1 hour,Regularly,Not at all,Yes,No,No,,
+118,38,6,1,1,Pastor,M,Good,2-5 cedis,2,2,No,Average,Average,26,Yes,Yes,Maybe,1 hour,Regularly,Not at all,Yes,Yes,No,,
+119,38.7,6,1,1,Trader,M,Good,11 cedis and above,2,0,Yes,Average,Average,25,No,No,Yes,Less than an hour,Regularly,Not at all,Yes,Yes,No,,
+120,38.7,6,0,2,Banker,M,Fair,11 cedis and above,3,2,No,Average,Average,25,No,No,Maybe,1 hour,Irregularly,Sometimes,No,No,Yes,Debate,No
+121,38.9,6,1,1,Administrator,high,Good,6-10 cedis,3,1,No,Excellent,Excellent,25,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,Yes,Yes,Sports,Maybe
+122,38.9,6,1,1,Trader,M,Good,6-10 cedis,3,2,No,Average,Good,25,Yes,No,Yes,1 hour,Regularly,Not at all,Yes,No,No,,
+123,39,6,0,1,Accountant,high,Good,11 cedis and above,3,3,Maybe,Excellent,Good,25,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+124,39.1,6,1,1,Teacher,M,Good,6-10 cedis,1,2,No,Excellent,Excellent,25,Yes,Yes,Maybe,1 hour,Regularly,Not at all,Yes,No,No,,
+125,39.4,6,1,2,2mer,M,Fair,11 cedis and above,3,2,Yes,Average,Average,25,Yes,Maybe,Yes,1 hour,Irregularly,Not at all,Yes,Yes,No,,
+126,39.4,6,1,1,Welder,M,Good,6-10 cedis,2,2,Maybe,Average,Good,58,Yes,Maybe,Yes,1 hour,Regularly,Sometimes,Yes,No,No,,
+127,40,5,0,2, Engineer ,M,Good,6-10 cedis,3,0,No,Average,Good,58,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+128,40,5,1,1,Doctor,Low,Fair,2-5 cedis,1,0,Yes,Average,Poor,57,Yes,Yes,Yes,Less than an hour,Regularly,Not at all,Yes,Yes,Yes,Sports,Yes
+129,40.1,5,1,1,Teacher,Low,Good,11 cedis and above,1,2,Maybe,Excellent,Excellent,57,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,No,No,,
+130,40.3,5,1,1,Driver,Low,Poor,2-5 cedis,2,2,Yes,Average,Excellent,60,Maybe,No,Yes,1 hour,Regularly,Sometimes,Yes,No,Yes,Sports,Yes
+131,40.8,5,1,1,Teacher,Low,Fair,2-5 cedis,3,2,Maybe,Excellent,Average,57,No,No,Yes,Less than an hour,Regularly,Not at all,Yes,Yes,Yes,Sports,Yes
+132,41,5,0,1,Trader,M,Fair,6-10 cedis,3,2,No,Average,Excellent,66,No,Maybe,No,2 hours and above,Not at all,Sometimes,No,Yes,No,,
+133,41,5,0,1,Trader,high,Good,2-5 cedis,2,3,Maybe,Average,Good,57,Yes,Yes,Yes,1 hour,Irregularly,Not at all,Yes,Yes,No,,
+134,41,5,0,1,Trader,M,Good,2-5 cedis,2,0,Maybe,Average,Excellent,57,Yes,Yes,Yes,1 hour,Regularly,Often,Yes,No,Yes,Sports,Yes
+135,41,5,0,1,Trader,Low,Poor,2-5 cedis,2,3,No,Excellent,Average,60,No,Yes,Yes,Less than an hour,Regularly,Sometimes,Yes,No,No,,
+136,41.5,5,0,1,Trader,Low,Fair,6-10 cedis,2,2,No,Average,Average,63,No,Yes,No,1 hour,Regularly,Sometimes,Yes,No,Yes,Selling,Yes
+137,41.6,5,0,2,Teacher,M,Fair,6-10 cedis,2,1,No,Excellent,Excellent,56,Yes,Yes,Yes,1 hour,Regularly,Sometimes,Yes,Yes,Yes,Sports,Yes
+138,41.6,5,0,1,Pastor,M,Good,2-5 cedis,2,2,Maybe,Average,Excellent,60,No,Yes,Maybe,1 hour,Irregularly,Not at all,Yes,No,Yes,Sports,No
+139,41.6,5,0,2,Trader,M,Fair,2-5 cedis,2,2,No,Average,Average,59,Yes,Yes,Yes,1 hour,Regularly,Often,No,Yes,Yes,Sports,Yes
+140,41.9,5,0,2,Carpenter,M,Fair,2-5 cedis,2,2,No,Average,Excellent,59,Maybe,No,Yes,1 hour,Regularly,Sometimes,Yes,No,No,,
+141,42,5,0,1,Trader,M,Good,2-5 cedis,1,3,Yes,Excellent,Good,58,No,Yes,Yes,Less than an hour,Irregularly,Sometimes,Yes,Yes,Yes,Sports,Yes
+142,42,5,0,1,Pastor,M,Good,6-10 cedis,2,2,Maybe,Excellent,Excellent,60,No,Yes,No,1 hour,Regularly,Sometimes,Yes,No,Yes,Sports,No
+143,42.1,5,1,1,Hall Assistant,M,Good,2-5 cedis,3,2,No,Excellent,Excellent,56,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,No,No,,
+144,42.9,5,0,1,Pastor,M,Good,6-10 cedis,3,2,No,Average,Excellent,60,No,Yes,No,1 hour,Irregularly,Not at all,Yes,Yes,Yes,Sports,No
+145,43,5,1,1,Cleaner,Low,Fair,2-5 cedis,3,2,Maybe,Average,Good,57,Maybe,Maybe,Yes,Less than an hour,Not at all,Often,Yes,No,No,,
+146,43,5,0,1,Doctor,high,Good,11 cedis and above,2,2,No,Average,Excellent,59,Maybe,No,Yes,1 hour,Regularly,Not at all,Yes,Yes,Yes,Sports,Maybe
+147,43,5,0,1,Trader ,high,Good,11 cedis and above,3,3,No,Excellent,Excellent,58,Yes,Yes,Yes,2 hours and above,Regularly,Sometimes,Yes,No,No,,
+148,43.2,5,0,2,Trader,M,Good,2-5 cedis,3,1,No,Excellent,Excellent,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,No,No,,
+149,43.2,5,1,2,Doctor,high,Good,6-10 cedis,3,3,No,Excellent,Excellent,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+150,43.3,5,1,2,Teacher,M,Good,6-10 cedis,3,0,No,Excellent,Excellent,26,Yes,Yes,Yes,Less than an hour,Regularly,Not at all,Yes,No,No,,
+151,43.5,5,0,2,Clergy,M,Good,6-10 cedis,3,2,No,Average,Good,26,Yes,Yes,Maybe,1 hour,Regularly,Not at all,Yes,No,No,,
+152,43.5,5,0,1,Businessman,M,Good,6-10 cedis,3,2,No,Excellent,Excellent,26,Yes,Maybe,Yes,2 hours and above,Regularly,Sometimes,Yes,No,No,,
+153,43.6,5,0,1,Cashier,M,Good,6-10 cedis,3,0,No,Average,Excellent,26,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,No,No,,
+154,43.7,5,1,1,Engineer,high,Good,6-10 cedis,3,2,No,Average,Excellent,26,Yes,Yes,Yes,2 hours and above,Regularly,Sometimes,Yes,Yes,No,,
+155,43.9,5,1,2,Trader,Low,Good,11 cedis and above,3,3,No,Average,Excellent,26,Maybe,Maybe,Maybe,Less than an hour,Not at all,Not at all,Yes,Yes,No,,
+156,44,5,0,1,Teacher,M,Fair,2-5 cedis,3,2,No,Average,Excellent,62,Maybe,No,Yes,1 hour,Regularly,Sometimes,Yes,No,No,,
+157,44,5,0,1,Banker,M,Good,2-5 cedis,2,2,No,Average,Excellent,62,No,No,Yes,1 hour,Regularly,Sometimes,No,No,Yes,Sports,Yes
+158,44,5,0,1,Trader,M,Good,6-10 cedis,3,3,No,Average,Excellent,63,No,No,Yes,1 hour,Irregularly,Sometimes,Yes,No,No,,
+159,44.4,5,1,1,Doctor,high,Fair,2-5 cedis,3,2,Yes,Average,Excellent,52,Yes,Yes,Yes,Less than an hour,Irregularly,Not at all,No,No,No,,
+160,44.5,5,0,1,Member of Parliament,high,Good,11 cedis and above,3,0,Maybe,Average,Excellent,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,No,Yes,Yes,Quiz,Maybe
+161,44.7,5,0,1,AstroNomist,Low,Fair,2-5 cedis,1,3,Maybe,Average,Excellent,27,No,Maybe,Maybe,Less than an hour,Irregularly,Sometimes,No,No,Yes,Sports,Maybe
+162,44.7,5,1,1,Teacher,high,Good,11 cedis and above,3,3,No,Average,Excellent,26,Yes,Maybe,Maybe,2 hours and above,Regularly,Not at all,Yes,No,No,,
+163,45.2,5,0,1,Entrepreneur,M,Fair,11 cedis and above,3,2,No,Excellent,Excellent,26,Yes,Yes,No,2 hours and above,Regularly,Sometimes,Yes,Yes,Yes,Music,No
+164,45.3,5,1,1,Cashier,M,Fair,11 cedis and above,3,2,No,Excellent,Excellent,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,No,No,,
+165,45.3,5,1,1,Trader,high,Good,11 cedis and above,3,0,No,Excellent,Excellent,26,Yes,Yes,Yes,Less than an hour,Regularly,Not at all,Yes,Yes,No,,
+166,45.4,5,1,1,Trader,M,Fair,6-10 cedis,3,0,No,Excellent,Excellent,26,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+167,46.2,5,1,1,Auditor,high,Good,11 cedis and above,3,2,Maybe,Excellent,Excellent,26,Yes,Yes,Yes,2 hours and above,Irregularly,Sometimes,Yes,Yes,No,,
+168,46.4,5,1,2,Lawyer,high,Good,11 cedis and above,3,2,No,Average,Average,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,No,No,,
+169,46.6,5,0,1,Researcher,M,Good,11 cedis and above,3,0,No,Average,Good,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,Yes,Music,Yes
+170,47,5,1,1,Public servant,M,Poor,6-10 cedis,3,2,Maybe,Average,Good,26,Maybe,Maybe,No,1 hour,Irregularly,Sometimes,No,Yes,No,,
+171,47,5,1,1,Lecturer,high,Good,11 cedis and above,3,0,No,Excellent,Excellent,26,Yes,Maybe,Maybe,2 hours and above,Regularly,Sometimes,Yes,Yes,Yes,Reading club,Yes
+172,47,5,1,1,Accountant,M,Good,6-10 cedis,3,3,No,Excellent,Excellent,26,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,No,No,,
+173,47.3,5,1,1,Teacher,M,Good,6-10 cedis,3,0,No,Excellent,Excellent,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,Yes,Chaplaincy,No
+174,47.3,5,1,2,Researcher,M,Good,6-10 cedis,3,2,No,Excellent,Excellent,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+175,47.8,5,1,2,Lecturer,high,Good,11 cedis and above,3,0,No,Excellent,Excellent,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+176,47.8,5,0,1,Educationalist,M,Good,11 cedis and above,3,2,No,Average,Excellent,26,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,Yes,Yes,Trader,Maybe
+177,47.9,5,1,2,Banker,M,Good,6-10 cedis,3,2,No,Average,Average,26,Yes,Maybe,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+178,48,5,1,1,Trader,Low,Fair,2-5 cedis,2,3,Yes,Average,Good,26,No,Maybe,Yes,Less than an hour,Regularly,Sometimes,Yes,No,No,,
+179,48.1,5,1,1,Trader,M,Good,11 cedis and above,3,2,No,Average,Good,26,Yes,Yes,Yes,2 hours and above,Regularly,Sometimes,Yes,No,No,,
+180,48.1,5,0,1,Pharmacist,M,Good,6-10 cedis,3,0,No,Average,Good,26,Yes,Yes,Maybe,2 hours and above,Irregularly,Not at all,Yes,Yes,No,,
+181,48.6,5,1,1,Accountant,M,Fair,6-10 cedis,2,2,Yes,Excellent,Excellent,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+182,49,5,0,2,Accountant,M,Good,6-10 cedis,3,0,No,Excellent,Good,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+183,49,5,0,2,Teacher,M,Good,2-5 cedis,3,2,No,Excellent,Excellent,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,No,No,,
+184,49.9,5,1,1,Trader,M,Good,6-10 cedis,3,2,Yes,Excellent,Excellent,26,Yes,Yes,Maybe,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+185,50,4,0,2,Teacher,high,Good,6-10 cedis,3,0,No,Excellent,Excellent,26,Yes,Yes,No,2 hours and above,Regularly,Not at all,Yes,Yes,Yes,Music,Yes
+186,50,4,0,2,Lawyer,high,Fair,11 cedis and above,3,0,No,Excellent,Excellent,26,Yes,Yes,Maybe,1 hour,Regularly,Sometimes,Yes,No,No,,
+187,50.3,4,1,1,Pharmacist,high,Fair,11 cedis and above,3,2,No,Average,Good,26,Yes,No,No,Less than an hour,Regularly,Not at all,No,Yes,No,,
+188,50.4,4,1,1,Businessman,M,Fair,11 cedis and above,3,3,Maybe,Excellent,Excellent,26,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,Yes,Yes,Karate,
+189,50.4,4,1,1,Engineer,M,Good,6-10 cedis,2,2,No,Average,Excellent,26,Yes,Yes,Yes,1 hour,Regularly,Sometimes,Yes,No,No,,
+190,50.4,4,0,2,Beautician,M,Good,11 cedis and above,3,2,No,Average,Good,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,Yes,Art,No
+191,50.5,4,1,2,Lecturer,high,Good,6-10 cedis,3,2,No,Average,Good,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+192,51,4,1,2,Trader,M,Good,11 cedis and above,3,2,No,Excellent,Excellent,26,No,No,Yes,Less than an hour,Irregularly,Sometimes,Yes,No,Yes,Chaplaincy,Yes
+193,51,4,1,1,Teacher,M,Fair,11 cedis and above,3,0,No,Average,Good,26,Maybe,Yes,Yes,1 hour,Irregularly,Not at all,Yes,Yes,No,,
+194,51,4,0,2,Teacher,high,Good,11 cedis and above,2,0,No,Average,Excellent,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+195,51,4,1,2,Entrepreneur,M,Good,11 cedis and above,3,3,Yes,Excellent,Excellent,26,No,Maybe,Yes,2 hours and above,Regularly,Sometimes,Yes,No,Yes,Sports,Maybe
+196,51,4,0,1,Banker,M,Good,6-10 cedis,3,1,No,Excellent,Good,26,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+197,51.1,4,1,1,Phamarcist,high,Good,11 cedis and above,3,2,Maybe,Average,Good,26,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+198,51.3,4,1,1,Doctor,high,Good,11 cedis and above,3,2,Maybe,Average,Good,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+199,51.5,4,0,2,Trader,M,Good,11 cedis and above,3,2,No,Excellent,Excellent,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+200,51.8,4,0,1,Beautician,M,Good,6-10 cedis,3,2,No,Average,Excellent,26,Yes,Yes,Yes,2 hours and above,Regularly,Sometimes,Yes,No,No,,
+201,52,4,1,2,Mechanic,M,Good,6-10 cedis,2,2,No,Average,Excellent,26,Yes,Maybe,Yes,2 hours and above,Not at all,Not at all,Yes,No,No,,
+202,52,4,1,1,Trader,Low,Poor,2-5 cedis,2,2,No,Average,Good,26,Yes,Maybe,Maybe,Less than an hour,Irregularly,Sometimes,No,No,No,,
+203,52.1,4,0,2,Teacher,M,Poor,2-5 cedis,2,3,Maybe,Excellent,Good,26,Yes,No,Yes,2 hours and above,Regularly,Sometimes,Yes,Yes,Yes,Selling,No
+204,52.4,4,1,1,Teacher,M,Good,6-10 cedis,3,3,No,Excellent,Excellent,26,No,No,Yes,2 hours and above,Regularly,Sometimes,Yes,Yes,Yes,Sports,
+205,52.6,4,0,1,Architect,high,Good,11 cedis and above,3,2,Maybe,Excellent,Excellent,26,Yes,Yes,Yes,Less than an hour,Regularly,Not at all,Yes,Yes,No,,
+206,52.7,4,1,2,Trader,M,Fair,11 cedis and above,2,3,Yes,Average,Excellent,26,Maybe,Yes,Yes,1 hour,Regularly,Not at all,No,Yes,No,,
+207,52.7,4,1,2,Teacher,M,Good,2-5 cedis,3,2,No,Excellent,Good,26,Yes,Yes,Yes,1 hour,Regularly,Sometimes,Yes,Yes,No,,
+208,52.9,4,1,1,Lawyer,high,Good,11 cedis and above,3,2,No,Average,Good,26,Yes,No,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+209,53,4,1,1,Trader,Low,Poor,2-5 cedis,1,0,Maybe,Excellent,Excellent,26,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,No,Yes,Sports,No
+210,53.4,4,1,1,Banker,M,Good,6-10 cedis,3,2,No,Excellent,Good,26,Yes,Yes,Yes,Less than an hour,Regularly,Not at all,Yes,Yes,No,,
+211,53.5,4,1,1,Teacher,M,Good,6-10 cedis,3,3,Maybe,Excellent,Excellent,26,Yes,Yes,Maybe,1 hour,Regularly,Not at all,Yes,Yes,Yes,Sports,No
+212,53.5,4,1,2,Trader,Low,Fair,2-5 cedis,1,3,No,Excellent,Good,26,Yes,Yes,Yes,2 hours and above,Irregularly,Sometimes,Yes,Yes,No,,
+213,53.5,4,0,1,Businessman,Low,Fair,6-10 cedis,2,2,No,Excellent,Excellent,26,Yes,Maybe,Yes,2 hours and above,Regularly,Not at all,Yes,No,No,,
+214,53.8,4,0,1,Trader,Low,Good,6-10 cedis,3,2,No,Excellent,Excellent,26,Yes,Maybe,Yes,2 hours and above,Regularly,Not at all,Yes,No,No,,
+215,53.9,4,1,1,Banker,high,Good,11 cedis and above,3,3,No,Excellent,Average,26,Yes,No,Yes,1 hour,Irregularly,Not at all,Yes,Yes,No,,
+216,54.1,4,1,2,Trader ,Low,Fair,2-5 cedis,1,3,Maybe,Poor,Average,26,No,No,Maybe,Less than an hour,Not at all,Often,Yes,No,No,,
+217,54.3,4,0,1,Lab Technician,M,Good,6-10 cedis,2,0,No,Excellent,Excellent,26,Yes,Maybe,Maybe,1 hour,Regularly,Not at all,Yes,Yes,No,,
+218,54.6,4,1,1,Teacher,M,Good,2-5 cedis,3,0,No,Average,Average,26,Yes,Yes,Maybe,1 hour,Regularly,Not at all,Yes,Yes,No,,
+219,54.6,4,1,2,Businessman,Low,Fair,2-5 cedis,1,3,Maybe,Poor,Average,26,No,No,Maybe,Less than an hour,Irregularly,Often,Yes,Yes,No,,
+220,54.8,4,0,2,Constructor,M,Good,2-5 cedis,2,0,No,Excellent,Excellent,26,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+221,55,4,0,1,Artist,M,Good,6-10 cedis,2,2,No,Average,Good,25,Yes,Yes,No,1 hour,Regularly,Not at all,Yes,No,No,,
+222,55,4,0,1,Trader,M,Good,6-10 cedis,2,2,No,Average,Good,35,Maybe,Yes,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+223,55.6,4,0,1,Trader ,M,Fair,6-10 cedis,3,2,No,Average,Average,35,Yes,Yes,Maybe,Less than an hour,Regularly,Not at all,No,Yes,Yes,Dance club,Maybe
+224,55.7,4,0,2,Pharmacist,high,Good,11 cedis and above,3,0,No,Excellent,Good,35,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+225,55.8,4,0,2,Adminstrator,M,Fair,6-10 cedis,2,2,No,Excellent,Good,35,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,No,No,,
+226,55.8,4,0,2,Auditor,M,Good,6-10 cedis,3,2,No,Excellent,Good,35,Maybe,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+227,56,4,0,1,TranSports Officer,high,Good,6-10 cedis,3,0,No,Excellent,Excellent,35,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+228,56,4,0,1,Teacher,M,Good,6-10 cedis,3,0,No,Excellent,Excellent,35,Yes,Yes,Yes,2 hours and above,Regularly,Sometimes,Yes,Yes,No,,
+229,56.2,4,1,1,Lecturer,high,Good,11 cedis and above,3,0,No,Excellent,Good,35,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,Yes,Yes,Chaplaincy,No
+230,56.3,4,1,2,Businessman,M,Fair,6-10 cedis,3,0,Maybe,Excellent,Excellent,35,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,No,Yes,"Sports, Music",Yes
+231,56.6,4,0,2,Banker,M,Good,6-10 cedis,3,1,No,Excellent,Average,35,Yes,Maybe,Yes,2 hours and above,Regularly,Sometimes,Yes,Yes,Yes,Sports,No
+232,56.6,4,0,1,Pilot,high,Good,11 cedis and above,3,2,No,Average,Excellent,35,Yes,Yes,Maybe,1 hour,Regularly,Not at all,Yes,No,No,,
+233,57,4,0,2,Mechanic,M,Fair,6-10 cedis,2,2,Maybe,Average,Excellent,35,Yes,Yes,Maybe,Less than an hour,Regularly,Not at all,Yes,Yes,No,,
+234,57.2,4,0,1,Adminstrator,high,Good,11 cedis and above,3,2,No,Average,Good,35,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,Yes,Quiz,No
+235,57.4,4,0,1,Businessman,high,Good,11 cedis and above,3,2,No,Excellent,Good,35,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,No,No,,
+236,57.7,4,0,2,Adminstrator,high,Good,11 cedis and above,3,2,No,Excellent,Excellent,35,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,Yes,Sports,No
+237,57.7,4,0,1,Lecturer,high,Good,6-10 cedis,3,2,No,Average,Good,35,Maybe,Maybe,Maybe,2 hours and above,Regularly,Not at all,Yes,Yes,Yes,Music,Maybe
+238,58,4,0,1,Lecturer,high,Fair,6-10 cedis,2,1,Yes,Excellent,Good,35,Yes,Yes,No,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+239,58.3,4,0,2,Nurse,high,Good,11 cedis and above,3,2,No,Average,Good,35,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,No,No,,
+240,58.4,4,0,2,Banker,M,Good,6-10 cedis,3,2,No,Average,Average,35,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,No,Yes,Music,
+241,58.4,4,1,1,Lecturer,high,Good,6-10 cedis,3,2,Maybe,Excellent,Good,35,Yes,Yes,Yes,2 hours and above,Not at all,Not at all,Yes,No,No,,
+242,58.6,4,1,2,Trader,M,Good,6-10 cedis,2,2,Maybe,Excellent,Good,35,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+243,58.9,4,0,1,Lecturer,high,Good,11 cedis and above,3,2,No,Excellent,Excellent,35,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+244,58.9,4,0,2,2mer,M,Good,6-10 cedis,2,2,No,Excellent,Good,35,Yes,Yes,Yes,Less than an hour,Regularly,Sometimes,Yes,No,No,,
+245,59,4,0,2,Accountant,high,Good,11 cedis and above,3,2,No,Excellent,Excellent,35,Maybe,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,Yes,Sports ,
+246,59.1,4,1,2,Businessman,M,Good,2-5 cedis,2,2,No,Average,Good,35,Yes,Yes,Maybe,1 hour,Regularly,Not at all,Yes,Yes,No,,
+247,59.1,4,0,1,Trader,M,Good,6-10 cedis,3,2,No,Excellent,Excellent,35,Yes,No,No,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+248,59.3,4,0,2,Businessman,high,Good,6-10 cedis,3,2,No,Excellent,Excellent,35,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+249,59.4,4,0,1,Pastor,M,Good,6-10 cedis,2,0,No,Excellent,Excellent,35,Yes,Yes,Maybe,1 hour,Regularly,Sometimes,Yes,Yes,No,,
+250,59.6,4,0,1,Driver,M,Good,6-10 cedis,3,2,No,Excellent,Excellent,35,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+251,59.8,4,0,2,Teacher,M,Good,11 cedis and above,3,3,Maybe,Average,Good,35,Yes,Maybe,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+252,59.9,4,0,1,Accountant,high,Good,11 cedis and above,3,0,No,Excellent,Excellent,35,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+253,60,4,0,1,Police,high,Good,11 cedis and above,3,2,No,Excellent,Excellent,35,Yes,Yes,No,2 hours and above,Regularly,Not at all,Yes,Yes,No,,
+254,60.2,4,0,1,Businessman,M,Good,11 cedis and above,3,2,No,Average,Excellent,35,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,No,No,,
+255,60.2,4,0,1,Dress Maker,M,Good,6-10 cedis,3,0,No,Excellent,Excellent,35,Yes,Maybe,Yes,2 hours and above,Irregularly,Sometimes,Yes,No,No,,
+256,60.5,4,0,2,Trader,M,Fair,6-10 cedis,3,3,Maybe,Average,Good,39,Yes,Yes,Maybe,1 hour,Regularly,Not at all,Yes,Yes,No,,
+257,60.5,4,1,1,Trader,M,Fair,6-10 cedis,3,2,No,Poor,Average,56,No,Maybe,Yes,2 hours and above,Regularly,Not at all,No,Yes,No,,
+258,60.5,4,0,1,Teacher,M,Good,6-10 cedis,2,3,Yes,Excellent,Good,61,Yes,No,Yes,1 hour,Regularly,Sometimes,No,No,No,,
+259,60.7,4,0,2,Entrepreneur,M,Good,6-10 cedis,2,2,No,Excellent,Good,54,Yes,Yes,Yes,2 hours and above,Regularly,Sometimes,Yes,Yes,Yes,Music,No
+260,61,4,0,2,Lawyer,high,Good,11 cedis and above,3,2,No,Excellent,Good,35,No,No,Yes,2 hours and above,Regularly,Not at all,Yes,No,No,,
+261,61.1,4,1,1,Blacksmith,high,Good,2-5 cedis,3,1,No,Excellent,Good,54,Yes,No,Yes,2 hours and above,Regularly,Not at all,Yes,No,No,,
+262,61.2,4,1,1,Driver,M,Good,6-10 cedis,2,3,No,Average,Good,60,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,No,No,,
+263,61.5,4,1,1,Trader,M,Fair,6-10 cedis,3,0,No,Excellent,Excellent,56,Yes,Yes,Yes,2 hours and above,Regularly,Often,Yes,No,Yes,Sports,Yes
+264,61.7,4,1,1,Teacher,M,Good,6-10 cedis,2,3,No,Average,Excellent,62,No,Yes,No,1 hour,Regularly,Often,Yes,Yes,No,,
+265,61.8,4,1,1,Teacher,M,Good,2-5 cedis,3,2,No,Excellent,Excellent,49,Maybe,Yes,Maybe,1 hour,Regularly,Not at all,No,No,No,,
+266,62,4,0,2,Carpenter,high,Good,6-10 cedis,3,1,No,Excellent,Good,58,Maybe,No,Yes,2 hours and above,Regularly,Sometimes,Yes,Yes,No,,
+267,62.1,4,1,1,Pastor,M,Good,2-5 cedis,2,0,No,Excellent,Average,35,Yes,Maybe,No,Less than an hour,Regularly,Sometimes,Yes,No,Yes,Sports,Yes
+268,62.1,4,1,1,Trader,high,Good,6-10 cedis,3,0,No,Excellent,Good,36,Yes,No,Yes,1 hour,Regularly,Not at all,Yes,No,Yes,Sports,Yes
+269,62.5,4,0,1,Trader,M,Good,2-5 cedis,3,2,No,Excellent,Good,32,No,No,Yes,2 hours and above,Regularly,Often,No,Yes,No,,
+270,62.7,4,0,1,2mer,Low,Fair,2-5 cedis,2,2,No,Excellent,Good,32,No,No,No,Less than an hour,Regularly,Sometimes,No,No,Yes,Quiz,No
+271,62.8,4,0,1,Carpenter,M,Good,6-10 cedis,3,2,No,Average,Good,32,Yes,No,No,Less than an hour,Irregularly,Often,Yes,No,Yes,Debate,No
+272,62.8,4,0,1,Nurse,high,Poor,6-10 cedis,3,2,Maybe,Excellent,Good,40,Maybe,Maybe,Yes,2 hours and above,Regularly,Sometimes,Yes,Yes,No,,
+273,62.9,4,0,2,2mer,Low,Fair,6-10 cedis,2,2,Maybe,Average,Average,56,Yes,Maybe,Maybe,1 hour,Regularly,Sometimes,No,No,No,,
+274,62.9,4,1,1,Trader,M,Fair,6-10 cedis,3,0,No,Excellent,Good,60,Yes,No,No,Less than an hour,Regularly,Not at all,No,No,No,,
+275,63,4,1,1,Trader,M,Good,6-10 cedis,3,2,Yes,Excellent,Good,52,Maybe,Maybe,Yes,Less than an hour,Regularly,Sometimes,No,No,No,,
+276,63.2,4,1,1,Trader,M,Good,6-10 cedis,3,2,No,Average,Excellent,60,No,Yes,Yes,1 hour,Irregularly,Not at all,Yes,Yes,Yes,Sports,No
+277,63.2,4,0,1,Trader,M,Fair,2-5 cedis,1,3,No,Excellent,Average,62,No,No,No,1 hour,Regularly,Sometimes,No,No,No,,
+278,63.3,4,0,1,Trader,M,Good,6-10 cedis,3,1,No,Excellent,Average,40,Yes,No,Yes,2 hours and above,Regularly,Sometimes,Yes,Yes,Yes,,
+279,63.3,4,0,1,Trader,high,Good,6-10 cedis,3,0,Maybe,Excellent,Good,32,Yes,No,Yes,1 hour,Regularly,Not at all,No,No,No,,
+280,63.5,4,0,1,Teacher,M,Fair,6-10 cedis,3,2,Maybe,Excellent,Average,39,No,Maybe,Yes,Less than an hour,Regularly,Sometimes,Yes,Yes,No,,
+281,63.5,4,0,1,Trader,M,Good,11 cedis and above,3,2,Yes,Average,Excellent,39,No,Yes,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+282,64,4,0,1,Trader,M,Good,6-10 cedis,1,2,Maybe,Average,Average,36,Maybe,Maybe,Yes,Less than an hour,Regularly,Sometimes,No,Yes,No,,
+283,64,4,0,1,Trader,M,Fair,6-10 cedis,3,0,No,Excellent,Excellent,32,Yes,Yes,Maybe,1 hour,Regularly,Sometimes,Yes,Yes,No,,
+284,64.3,4,0,2,Teacher,M,Good,6-10 cedis,3,2,No,Average,Excellent,93,Yes,No,No,1 hour,Regularly,Sometimes,Yes,Yes,No,,
+285,64.3,4,1,1,Accountant,M,Good,6-10 cedis,2,2,Yes,Excellent,Excellent,38,Yes,No,Maybe,2 hours and above,Regularly,Sometimes,Yes,Yes,Yes,Coding,Yes
+286,64.4,4,0,2,Caterer,M,Good,11 cedis and above,3,2,No,Excellent,Good,55,No,No,Maybe,1 hour,Regularly,Not al all,Yes,Yes,No,,
+287,64.6,4,0,1,Lawyer,M,Good,6-10 cedis,1,2,No,Excellent,Good,55,Yes,No,Yes,2 hours and above,Regularly,Sometimes,Yes,Yes,Yes,Sports,Yes
+288,64.6,4,0,1,Driver,M,Good,2-5 cedis,3,3,No,Excellent,Good,56,Yes,Yes,Yes,Less than an hour,Regularly,Often,Yes,Yes,No,,
+289,64.7,4,0,1,Trader,M,Good,2-5 cedis,3,3,No,Average,Good,60,Yes,Yes,No,2 hours and above,Regularly,Sometimes,Yes,No,No,,
+290,64.8,4,1,1,Trader,M,Good,6-10 cedis,3,1,Maybe,Excellent,Good,34,Yes,No,Yes,1 hour,Regularly,Sometimes,No,No,No,,
+291,65.3,3,0,1,Trader,M,Fair,6-10 cedis,3,2,No,Excellent,Good,37,Yes,No,Yes,1 hour,Regularly,Sometimes,Yes,No,No,,
+292,65.6,3,0,2,Trader,high,Poor,2-5 cedis,3,2,No,Excellent,Excellent,32,Yes,No,Maybe,2 hours and above,Regularly,Often,No,Yes,No,,
+293,65.6,3,0,1,Trader,high,Good,11 cedis and above,2,2,No,Excellent,Excellent,33,Maybe,No,Maybe,2 hours and above,Regularly,Sometimes,Yes,No,No,,
+294,65.6,3,0,1,Trader,M,Good,6-10 cedis,3,2,No,Average,Excellent,32,Maybe,Maybe,Yes,2 hours and above,Regularly,Sometimes,No,Yes,No,,
+295,65.7,3,0,1,Trader,M,Good,6-10 cedis,2,2,Yes,Excellent,Good,32,Yes,No,Yes,1 hour,Regularly,Sometimes,Yes,No,No,,
+296,66,3,0,1,Entrepreneur,M,Good,2-5 cedis,3,0,No,Excellent,Average,40,Maybe,Yes,Yes,1 hour,Regularly,Sometimes,Yes,No,Yes,Sports ,No
+297,66.3,3,0,2,Baking,Low,Poor,2-5 cedis,2,2,Yes,Average,Average,27,No,No,No,Less than an hour,Irregularly,Sometimes,No,Yes,No,,
+298,66.3,3,0,1,Trader,high,Good,6-10 cedis,3,0,Maybe,Average,Good,38,Yes,Maybe,Yes,1 hour,Regularly,Sometimes,Yes,No,No,,
+299,66.6,3,0,1,Trader,high,Good,11 cedis and above,2,2,Maybe,Average,Good,34,Maybe,No,Yes,1 hour,Regularly,Sometimes,Yes,Yes,Yes,Quiz,Yes
+300,66.7,3,0,1,Trader,high,Good,2-5 cedis,2,2,No,Excellent,Good,60,Maybe,No,Maybe,1 hour,Not at all,Sometimes,Yes,No,No,,
+301,66.9,3,0,1,Pharmacist,high,Good,6-10 cedis,3,0,No,Excellent,Good,20,Maybe,Maybe,Maybe,Less than an hour,Regularly,Sometimes,Yes,Yes,No,,
+302,67,3,0,1,Doctor,M,Good,6-10 cedis,2,0,No,Excellent,Good,20,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,No,No,,
+303,67,3,0,2,Contractor,M,Good,11 cedis and above,2,3,No,Excellent,Good,20,Yes,No,Yes,2 hours and above,Regularly,Not at all,Yes,No,No,,
+304,67.3,3,0,2,Contractor,M,Good,2-5 cedis,2,3,No,Excellent,Average,45,Maybe,Yes,Yes,1 hour,Regularly,Not at all,Yes,No,Yes,Sports,Yes
+305,67.4,3,0,1,Trader,M,Fair,6-10 cedis,3,0,No,Average,Good,58,No,Yes,Yes,1 hour,Regularly,Not at all,No,No,No,,
+306,67.6,3,0,1,2mer,M,Good,2-5 cedis,3,2,No,Average,Good,62,Maybe,No,Maybe,1 hour,Not at all,Not at all,Yes,No,No,,
+307,67.7,3,0,1,2mer,M,Good,2-5 cedis,2,2,No,Average,Average,62,No,No,Maybe,1 hour,Not at all,Not at all,Yes,No,No,,
+308,67.9,3,0,1,Driver,M,Poor,2-5 cedis,3,3,Yes,Average,Average,58,No,No,Yes,2 hours and above,Regularly,Not at all,No,No,No,,
+309,68,3,0,1,Teacher,M,Good,6-10 cedis,3,0,No,Average,Good,33,No,No,No,2 hours and above,Regularly,Sometimes,Yes,Yes,Yes,Sports,No
+310,68.5,3,0,1, Contractor,M,Fair,2-5 cedis,2,2,No,Average,Average,27,Maybe,No,Yes,Less than an hour,Irregularly,Sometimes,Yes,Yes,No,,
+311,68.6,3,0,1,2mer,M,Good,2-5 cedis,1,1,No,Excellent,Average,36,Yes,No,Yes,1 hour,Regularly,Often,No,Yes,No,,
+312,68.8,3,1,2,Baking,M,Fair,2-5 cedis,2,0,Maybe,Average,Good,33,Yes,Yes,No,1 hour,Regularly,Sometimes,No,No,Yes,Sports,Maybe
+313,69,3,0,2,Teacher,M,Fair,2-5 cedis,3,2,No,Excellent,Excellent,30,Yes,Yes,Yes,1 hour,Irregularly,Sometimes,No,Yes,Yes,Sports,Yes
+314,69.6,3,1,1,Teacher,Low,Good,6-10 cedis,2,2,No,Average,Good,39,Yes,Maybe,Yes,1 hour,Irregularly,Sometimes,No,Yes,Yes,Sports,Yes
+315,69.7,3,0,1,Teacher,M,Good,6-10 cedis,2,2,No,Average,Average,38,Yes,No,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+316,70,2,1,1,Carpenter,M,Good,6-10 cedis,3,2,No,Average,Average,20,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,No,No,,
+317,70,2,0,1,Teacher,M,Fair,6-10 cedis,1,2,Maybe,Excellent,Excellent,20,Yes,Maybe,Maybe,1 hour,Irregularly,Not at all,Yes,Yes,No,,
+318,70.9,2,1,1,Forestry,M,Good,6-10 cedis,2,2,No,Excellent,Good,20,Yes,No,Yes,2 hours and above,Regularly,Not at all,Yes,No,No,,
+319,71,2,0,1,Trader,M,Fair,6-10 cedis,3,0,Yes,Average,Excellent,38,Yes,Maybe,Maybe,1 hour,Irregularly,Sometimes,No,No,No,,
+320,71.2,2,1,1,Trader,M,Fair,2-5 cedis,3,2,No,Average,Average,58,Yes,No,No,Less than an hour,Regularly,Sometimes,Yes,No,No,,
+321,71.7,2,0,1,Driver,Low,Poor,2-5 cedis,2,2,Yes,Average,Good,48,No,Yes,No,Less than an hour,Not at all,Sometimes,No,No,No,,
+322,71.7,2,1,1,Lecturer,high,Good,6-10 cedis,3,2,No,Excellent,Good,20,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,No,No,,
+323,72,2,0,1,Businessman,M,Good,6-10 cedis,2,2,No,Average,Excellent,20,Yes,Yes,Maybe,Less than an hour,Regularly,Not at all,Yes,Yes,No,,
+324,72.1,2,0,1,Trader,M,Good,6-10 cedis,3,1,No,Excellent,Good,58,Maybe,No,Yes,2 hours and above,Regularly,Sometimes,Yes,Yes,No,,
+325,72.6,2,0,1,Trader,M,Fair,2-5 cedis,2,3,Maybe,Average,Good,54,Yes,Yes,Maybe,1 hour,Irregularly,Sometimes,No,No,No,,
+326,72.7,2,0,1,Trader,M,Good,2-5 cedis,1,2,No,Average,Good,36,Yes,No,Yes,Less than an hour,Regularly,Sometimes,No,No,Yes,Quiz,No
+327,73,2,0,1,Tailor,high,Good,6-10 cedis,3,1,No,Average,Excellent,38,Yes,Maybe,Yes,1 hour,Regularly,Sometimes,Yes,No,No,,
+328,73.6,2,0,2,Teacher,high,Fair,11 cedis and above,3,2,Maybe,Average,Average,37,No,Yes,Maybe,2 hours and above,Regularly,Sometimes,Yes,Yes,Yes,Quiz,Yes
+329,74,2,0,1,Trader,M,Good,2-5 cedis,2,3,No,Excellent,Good,32,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+330,74,2,0,2,Trader,M,Good,11 cedis and above,3,3,Yes,Average,Good,32,Yes,No,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+331,74.3,2,1,1,Trader,M,Good,6-10 cedis,1,1,No,Excellent,Good,37,Yes,No,Yes,2 hours and above,Regularly,Often,Yes,Yes,No,,
+332,74.5,2,0,1,Trader,M,Good,2-5 cedis,2,0,Yes,Excellent,Excellent,32,Yes,Yes,Yes,2 hours and above,Regularly,Often,Yes,Yes,Yes,Music,Yes
+333,74.6,2,0,1,Teacher,Low,Good,6-10 cedis,2,2,No,Average,Excellent,39,Yes,Maybe,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+334,74.7,2,0,2,Dress Maker,M,Good,2-5 cedis,3,0,No,Excellent,Excellent,27,Yes,Yes,Yes,2 hours and above,Regularly,Not at all,Yes,No,No,,
+335,75.2,2,1,1,Driver,high,Good,6-10 cedis,2,2,No,Excellent,Excellent,62,Yes,Yes,Yes,1 hour,Regularly,Sometimes,Yes,Yes,No,,
+336,75.2,2,1,1,2mer,M,Fair,6-10 cedis,3,1,No,Average,Average,38,Yes,No,Yes,Less than an hour,Regularly,Sometimes,No,No,Yes,Sports,Yes
+337,75.3,2,1,1,Driver,Low,Good,2-5 cedis,1,2,Maybe,Average,Average,32,No,No,No,Less than an hour,Regularly,Often,Yes,Yes,Yes,Sports,Yes
+338,76.1,2,0,1,Trader,M,Good,2-5 cedis,2,2,Maybe,Excellent,Average,36,Yes,No,Yes,1 hour,Regularly,Often,Yes,Yes,Yes,Sports,No
+339,76.3,2,0,1,Trader,M,Fair,6-10 cedis,2,2,No,Excellent,Good,37,Maybe,Yes,Yes,1 hour,Regularly,Often,No,Yes,Yes,Sports,No
+340,76.5,2,0,1,2mer,M,Fair,6-10 cedis,3,0,No,Average,Excellent,35,No,No,Yes,1 hour,Regularly,Not at all,Yes,No,No,,
+341,76.6,2,1,1,Trader,M,Fair,6-10 cedis,3,2,No,Average,Good,38,No,No,Maybe,1 hour,Regularly,Not at all,No,No,No,,
+342,77,2,0,1,Trader,Low,Fair,6-10 cedis,2,2,Maybe,Excellent,Good,27,Maybe,Yes,Yes,Less than an hour,Regularly,Sometimes,Yes,No,Yes,Sports,Yes
+343,77.1,2,1,1,Trader,M,Good,6-10 cedis,3,2,No,Excellent,Good,33,Yes,Yes,Yes,1 hour,Regularly,Not at all,Yes,Yes,No,,
+344,77.3,2,0,1,Trader,M,Fair,6-10 cedis,3,3,No,Average,Good,32,Yes,No,Yes,Less than an hour,Regularly,Sometimes,Yes,Yes,Yes,Sports,Yes
+345,78.4,2,1,1,Teacher,M,Fair,6-10 cedis,3,2,No,Average,Average,32,Maybe,Maybe,Maybe,2 hours and above,Irregularly,Sometimes,No,No,No,,
+346,78.5,2,1,1,Trader,M,Fair,2-5 cedis,2,1,No,Average,Average,32,Yes,No,No,2 hours and above,Regularly,Sometimes,Yes,No,No,,
+347,78.7,2,0,1,Trader,high,Good,6-10 cedis,2,0,Yes,Average,Good,39,Yes,No,Yes,1 hour,Regularly,Sometimes,Yes,Yes,Yes,Sports,Yes
+348,79.2,2,0,1,Carpenter,M,Good,2-5 cedis,3,2,No,Excellent,Good,35,No,No,Yes,Less than an hour,Regularly,Sometimes,Yes,Yes,No,,
+349,79.4,2,0,1,Banker,M,Fair,11 cedis and above,3,2,No,Average,Excellent,20,Yes,No,Maybe,1 hour,Regularly,Not at all,Yes,Yes,No,,
+350,80.5,1,0,2,Carpenter,M,Good,2-5 cedis,3,3,No,Average,Excellent,37,Yes,No,Yes,1 hour,Regularly,Sometimes,Yes,Yes,No,,
+351,82,1,0,1,Driver,M,Good,6-10 cedis,2,0,No,Excellent,Excellent,58,No,No,Yes,1 hour,Regularly,Sometimes,No,No,No,,
+352,82.6,1,0,1,Engineer,M,Fair,2-5 cedis,1,3,No,Excellent,Good,62,No,No,No,1 hour,Not at all,Not at all,Yes,No,No,,
+353,83.2,1,0,1,Trader,M,Fair,6-10 cedis,2,3,No,Average,Good,63,No,No,Yes,1 hour,Regularly,Sometimes,Yes,No,No,,
+354,84.2,1,0,1,Trader,M,Good,6-10 cedis,2,2,No,Average,Excellent,56,Yes,No,No,Less than an hour,Regularly,Sometimes,Yes,No,No,,
+355,84.3,1,1,1,Trader,M,Good,6-10 cedis,2,2,No,Excellent,Good,65,Yes,No,Yes,2 hours and above,Regularly,Sometimes,No,No,No,,
+356,84.4,1,1,1,Carpenter,M,Good,2-5 cedis,2,2,No,Excellent,Excellent,84,Yes,Yes,Yes,1 hour,Regularly,Not at all,No,Yes,Yes,Sports,Yes
+357,85.4,1,1,1,Trader,M,Good,2-5 cedis,2,2,No,Excellent,Good,60,Yes,No,Yes,2 hours and above,Regularly,Not at all,No,Yes,No,,
+358,85.7,1,1,1,Trader,M,Good,2-5 cedis,2,2,No,Excellent,Good,54,Yes,No,Yes,1 hour,Regularly,Not at all,No,Yes,No,,
+359,85.7,1,0,1,2mer,M,Good,2-5 cedis,1,1,No,Excellent,Average,36,Yes,No,Yes,1 hour,Regularly,Often,No,Yes,No,,
+360,86,1,1,2,Baker,M,Fair,2-5 cedis,2,0,Maybe,Average,Good,33,Yes,Yes,No,1 hour,Regularly,Sometimes,No,No,Yes,Sports,Maybe
+361,86.5,1,0,1,Trader,high,Good,6-10 cedis,2,0,Yes,Average,Good,39,Yes,No,Yes,1 hour,Regularly,Sometimes,Yes,Yes,Yes,Sports,Yes
+362,86.9,1,0,1,Carpenter,M,Good,2-5 cedis,3,2,No,Excellent,Good,35,No,No,Yes,Less than an hour,Regularly,Sometimes,Yes,Yes,No,,
+363,88.2,1,0,1,Banker,M,Fair,11 cedis and above,3,2,No,Average,Excellent,20,Yes,No,Maybe,1 hour,Regularly,Not at all,Yes,Yes,No,,
+364,90.6,1,1,2,Banker,M,Fair,2-5 cedis,2,0,Maybe,Average,Good,33,Yes,Yes,No,1 hour,Regularly,Sometimes,No,No,Yes,Sports,Maybe
